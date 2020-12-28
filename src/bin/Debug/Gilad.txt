@@ -1,0 +1,23 @@
+Car, 2014,2,Mazda,12345678,5,1600
+Car, 2019,MX-5,Mazda,987654321,2,2000
+Car, 2015,Corola,Toyota,102030,5,1600
+Car, 2020,4,BMW,121212,3,2000
+Car, 2020,GTB,Ferrari,11111111,2,3000
+Motorcycle, 2018,k,BMW,125634 ,2,2
+Motorcycle, 2020,ZX-14,Kawasaki,101918 ,2,2
+Motorcycle, 2015,Ninja,Kawasaki,15161718 ,1,2
+Motorcycle, 2013,Rebel,Honda,1020304 ,1,2
+Motorcycle, 2017,DR,Suzuki,1928374 ,1,2
+Car, 2014,2,Mazda,12345678,5,1600
+Car, 2019,MX-5,Mazda,987654321,2,2000
+Car, 2015,Corola,Toyota,102030,5,1600
+Car, 2020,4,BMW,121212,3,2000
+Car, 2020,GTB,Ferrari,11111111,2,3000
+Motorcycle, 2018,k,BMW,125634 ,2,2
+Motorcycle, 2020,ZX-14,Kawasaki,101918 ,2,2
+Motorcycle, 2015,Ninja,Kawasaki,15161718 ,1,2
+Motorcycle, 2013,Rebel,Honda,1020304 ,1,2
+Motorcycle, 2017,DR,Suzuki,1928374 ,1,2
+Truck, 2009,77,MX,4321234 ,2,100
+Truck, 2000,3,AA,121 ,3,110
+Truck, 2007,QA,TEK,101090 ,4,120
